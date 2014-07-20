@@ -1,0 +1,8 @@
+{
+    "baseUrl": "github://johnshepardme@Industrial-Pack-QuickMod
+",
+    "index": [
+        {
+            "uid": "applied.energistics",
+            "url": "AE.json"
+        },
